@@ -1,3 +1,6 @@
+
+* **[Read This First](https://github.com/stormasm/frontend-notes/blob/master/my-notes.md)**
+
 Spec Markdown
 -------------
 
